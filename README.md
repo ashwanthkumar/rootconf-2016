@@ -17,4 +17,4 @@ Personal Notes from [RootConf 2016](https://rootconf.in/2016/).
 5. Handling logs, events and metrics using Heka - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/WorkingWithHeka.md)
 
 
-This is my no means a comprehensive notes. Most of them were written as speakers were speaking and some of them were based on personal interactions with them after their talk. If you find any typos or have more notes from various talks or improve any of the existing ones, please send them as PRs. I'll be happy to merge them in.
+This is by no means a comprehensive notes. Most of them were written as speakers were speaking and some of them were based on personal interactions with them after their talk. If you find any typos or have more notes from various talks or improve any of the existing ones, please send them as PRs. I'll be happy to merge them in.
