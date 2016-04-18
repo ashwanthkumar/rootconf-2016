@@ -5,7 +5,8 @@ Personal Notes from [RootConf 2016](https://rootconf.in/2016/).
 ## Day 1
 1. Moving to Mesos from Bare Metal Servers - t.co service - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/MovingToMesosFromBaremetal.md)
 2. Chaos Engineering and design patterns for building highly available services - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/Keynote-ChaosEngineering.md)
-3. How TV newsrooms work and what you can learn from them - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/HowNewsroomsWork.md)
+3. On The Building Of A Postgres Cluster - [Slides](https://speakerdeck.com/srihari/on-the-building-of-a-postgres-cluster)
+4. How TV newsrooms work and what you can learn from them - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/HowNewsroomsWork.md)
 
 ## Day 2
 1. Continuous deployment at Scale - [Notes](https://github.com/ashwanthkumar/rootconf-2016/blob/master/CDAtScaleInEtsy.md)
